@@ -14,6 +14,10 @@
 * [FreeRTOS Sucessfully Ported](https://www.raspberrypi.org/forums/viewtopic.php?f=72&t=22423)
 * [Sample source: FreeRTOS v9.0.0 port for Raspberry Pi 1](https://github.com/leodido99/RaspberryPi1-FreeRTOSv9.0.0)
 
+
+* [FreeRTOS API Reference Documentation](http://web.ist.utl.pt/~ist11993/FRTOS-API/index.html)
+* [List of open source real-time operating systems](https://www.osrtos.com/)
+
 ## 锻造最美之器
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
