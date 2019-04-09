@@ -1,18 +1,24 @@
-# [context](https://github.com/qitas/context) 
+# [software](https://github.com/qitas/software) 
 
 #### qitas@qitas.cn
 
-## [描述](https://github.com/qitas/context/wiki) 
+## [描述](https://github.com/qitas/software/wiki) 
 
-## [组成](qitas/)
+## [辅助测试](qitas/)
 
-#### [文档](docs/)
+#### [modbus通信测试](https://github.com/Qitas/winmodbus)
 
-#### [资源](src/)
+## [平台工具](qitas/)
 
-#### [工程](project/)
+#### [IP端口发现](https://github.com/Qitas/winscan)
 
-## 参考资料
+#### [镜像文件烧录](https://github.com/Qitas/winimage)
+
+
+## [功能集成](qitas/)
+
+#### [串口工具](https://github.com/Qitas/winserial)
+
 
 ## 锻造最美之器
 
