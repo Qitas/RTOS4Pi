@@ -15,5 +15,7 @@
 * [串口通信](https://github.com/Qitas/winserial)
 * [modbus通信](https://github.com/Qitas/winmodbus)
 
+#### [执行文件](exe/)
+
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
 ## 锻造最美之器
