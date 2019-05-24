@@ -4,3 +4,6 @@
 [submodule "serial"]
 	path = serial
 	url = https://github.com/Qitas/winserial.git
+[submodule "netscan"]
+	path = netscan
+	url = https://github.com/Qitas/winscan.git
