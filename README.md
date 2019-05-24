@@ -1,26 +1,19 @@
-# [software](https://github.com/qitas/software) 
+# [Software on Microsoft](https://github.com/qitas/software)
 
-#### qitas@qitas.cn
+基于window平台下构建的window工具，开源项目集成，VS开发
 
-## [描述](https://github.com/qitas/software/wiki) 
+## [构建工具](qitas/)
 
-## [辅助测试](qitas/)
+* [镜像烧录](https://github.com/Qitas/winimage)
 
-#### [modbus通信测试](https://github.com/Qitas/winmodbus)
+## [网络工具](qitas/)
 
-## [平台工具](qitas/)
+* [端口发现](https://github.com/Qitas/winscan)
 
-#### [IP端口发现](https://github.com/Qitas/winscan)
+## [通信工具](qitas/)
 
-#### [镜像文件烧录](https://github.com/Qitas/winimage)
-
-
-## [功能集成](qitas/)
-
-#### [串口工具](https://github.com/Qitas/winserial)
-
-
-## 锻造最美之器
+* [串口通信](https://github.com/Qitas/winserial)
+* [modbus通信](https://github.com/Qitas/winmodbus)
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
-
+## 锻造最美之器
