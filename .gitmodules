@@ -1,3 +1,6 @@
 [submodule "image"]
 	path = image
 	url = https://github.com/Qitas/winimage.git
+[submodule "serial"]
+	path = serial
+	url = https://github.com/Qitas/winserial.git
