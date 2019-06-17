@@ -13,6 +13,7 @@
 ## [通信工具](qitas/)
 
 * [串口通信](https://github.com/Qitas/winserial)
+* [网口通信](https://github.com/Qitas/Qnet)
 * [modbus通信](https://github.com/Qitas/winmodbus)
 
 ## [执行文件](exe/)
@@ -25,7 +26,7 @@
 非window平台的开源工具和相关的放置在：
 
 * [mAIn智慧构建](https://github.com/Qitas/mAIn)
-* [arm xxx Pi 设备](https://github.com/Qitas/Pi)
+* [arm  Pi 设备](https://github.com/Qitas/Pi)
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
 ## 锻造最美之器

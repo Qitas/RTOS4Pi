@@ -7,3 +7,6 @@
 [submodule "netscan"]
 	path = netscan
 	url = https://github.com/Qitas/winscan.git
+[submodule "Qnet"]
+	path = Qnet
+	url = https://github.com/Qitas/Qnet
